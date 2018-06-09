@@ -1,0 +1,3 @@
+F:/WEB/CLion 2018.1/CLionProjects/Lab3 Text file v2/cmake-build-debug/CMakeFiles/Lab3_Text_file_v2.dir
+F:/WEB/CLion 2018.1/CLionProjects/Lab3 Text file v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/WEB/CLion 2018.1/CLionProjects/Lab3 Text file v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
